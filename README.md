@@ -1,8 +1,11 @@
-To install
+Para instalar
 
 `pip install -r requirements.txt`
+
+Y luego
+
 `pip install lsvtest==0.0.3`
 
-To run:
+Para ejecutar:
 
 `python main.py`
